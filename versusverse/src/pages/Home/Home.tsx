@@ -1,3 +1,4 @@
+// src/pages/Home/Home.tsx
 import { Button } from "../../components/common/Button.tsx"
 import { Link } from "react-router-dom"
 

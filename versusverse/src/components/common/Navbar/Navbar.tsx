@@ -1,5 +1,6 @@
+// src/components/common/Navbar/Navbar.tsx
 import { Link } from 'react-router-dom'
-import { Button } from '../button'
+import { Button } from '../Button'  // Updated path
 
 export function Navbar() {
     return (
